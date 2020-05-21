@@ -56,12 +56,6 @@
             <version>0.3.0</version>
         </dependency>
 
-        <dependency>
-            <groupId>co.elastic.apm</groupId>
-            <artifactId>apm-agent-attach</artifactId>
-            <version>1.15.0</version>
-        </dependency>
-
 		<!-- tag::tests[] -->
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
